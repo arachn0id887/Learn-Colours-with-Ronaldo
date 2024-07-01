@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+div {
+ margin-left: 15%;
+}
+h1 {
+  display: inline-block;
+}
+select {
+  height: 40px;
+  width: 100px;
+  margin-left: 10px;
+}
+img {
+  height: 490px;
+  width: 600px;
+}
