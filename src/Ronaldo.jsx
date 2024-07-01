@@ -16,7 +16,7 @@ function Ronaldo() {
       document.querySelector("img").style.display = "none"
     } else {
       document.querySelector("img").style.display = "block"
-      setImg(`src/assets/${color}.jpg`)
+      setImg(`https://raw.githubusercontent.com/arachn0id887/Learn-Colours-with-Ronaldo/main/src/assets/${color}.jpg`)
       localStorage.setItem("img", img)
     }
   }, [color])
