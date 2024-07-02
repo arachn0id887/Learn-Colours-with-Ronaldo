@@ -34,9 +34,10 @@ function Ronaldo() {
      </select>
       <br />
       <img src={img} alt="CR7" />
+      <Analytics/>
+
     </div>
-    <Analytics></Analytics>
-    </>
+        </>
   )
 }
 
