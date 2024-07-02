@@ -35,6 +35,7 @@ function Ronaldo() {
       <br />
       <img src={img} alt="CR7" />
     </div>
+    <Analytics></Analytics>
     </>
   )
 }
